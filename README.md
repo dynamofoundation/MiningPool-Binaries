@@ -1,5 +1,9 @@
 # MiningPool
 
+## STILL IN TESTING
+The Dynamo Pool application is still in development.
+
+### Setup and Run Procedure
 The standard installation requires 3 files:
 
 MiningPool binary
@@ -30,8 +34,7 @@ wallet=<name of wallet created in step 2>
 
 6.  Start MiningPool binary.
 
-Explanation of settings.txt:
-
+### Explanation of settings.txt:
 ```
 {
 	"clientListenPort" : 4567,        (This is the port miners will connect to)
